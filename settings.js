@@ -39,19 +39,19 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚']
+global.owner = ['Indumina Hansika🌹⃝⃘̉̉̉̉̉̉🧚']
 
-global.premium = ['🖤Black Panther Bot🖤']
+global.premium = ['🖤XOFIY X Bot🖤']
 
 global.ownernomer = '+94741671668'
 
-global.ownername = 'Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚'
+global.ownername = 'Indumina Hansika🌹⃝⃘̉̉̉̉̉̉🧚'
 
-global.botname = '🖤Black Panther Bot🖤'
+global.botname = '🖤XOFIY X Bot🖤'
 
-global.footer = '©Black panther🖤.'
+global.footer = '©XOFIY X🖤.'
 
-global.ig = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
+global.ig = 'https://github.com/ESANDUWyte/BLACK-PANTHER-MD-V2'
 
 global.region = 'Sri lanka, North Central Province, Anuradhapura'
 
@@ -59,9 +59,9 @@ global.sc = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
 
 global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 
-global.packname = '🖤Black Panther Bot🖤'
+global.packname = '🖤XOFIY X Bot🖤'
 
-global.author = '🖤Black Panther Bot🖤'
+global.author = '🖤XOFIY X Bot🖤'
 
 global.sessionName = 'session'
 
